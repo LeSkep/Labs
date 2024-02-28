@@ -1,0 +1,1 @@
+This repo is just for learning github and storing current lab exercises that I am completing at university :)
